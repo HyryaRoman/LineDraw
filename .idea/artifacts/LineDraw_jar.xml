@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LineDraw:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LineDraw_jar</output-path>
+    <root id="archive" name="LineDraw.jar">
+      <element id="module-output" name="LineDraw" />
+    </root>
+  </artifact>
+</component>
